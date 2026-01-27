@@ -1,0 +1,28 @@
+# Healthcare ML Testing Framework - Python Dependencies
+
+# Core ML and Data Science
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Testing
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# Testing Framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Reporting
+jinja2>=3.1.0
+
+# Data Validation
+great-expectations>=0.17.0  # Optional: advanced data quality
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
