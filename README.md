@@ -172,7 +172,7 @@ This framework addresses these requirements through automated statistical testin
 
 ## Current Status
 
-🚧 **Under Active Development** - Initial release planned February 2026
+🚧 **Under Active Development** - Initial release planned April 2026
 
 This is a demonstration project showcasing the intersection of:
 - Software test automation expertise (10+ years)
