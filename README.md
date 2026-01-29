@@ -1,9 +1,30 @@
 # Healthcare ML Testing Framework
 
+**Transparency Note:** This is an educational portfolio project by a Senior SDET with M.S. Biostatistics exploring how to apply statistical validation to AI/ML testing. It represents a transition from 
+traditional test automation (10+ years) into ML quality assurance, demonstrating both existing test automation expertise and statistical knowledge from formal training.
+
+## Project Status & Intent
+
+🎓 **Educational/Portfolio Project**
+
+This is a demonstration framework showing how a Senior SDET with biostatistics background would approach AI/ML testing in healthcare. It represents:
+
+- **Test automation expertise:** 10+ years building Selenium frameworks, CI/CD integration, API testing
+- **Statistical knowledge:** M.S. Biostatistics coursework in hypothesis testing, experimental design, regression analysis
+- **Career direction:** Transitioning from traditional functional test automation to AI/ML quality assurance
+- **Learning in progress:** Actively developing expertise in ML validation, bias detection, and statistical testing
+
 ## Overview
-Statistical testing framework for validating machine learning models in healthcare applications. Built by a Senior SDET with M.S. Biostatistics background to demonstrate rigorous statistical validation methods for AI/ML systems in regulated environments.
+Demonstration framework exploring how to apply statistical validation methods to machine learning models in healthcare applications. Created by a Senior SDET with 
+M.S. Biostatistics to bridge test automation expertise with statistical validation principles for AI/ML systems in regulated environments.
+
+**Note:** This is an educational/exploratory project demonstrating how biostatistics principles could be applied to ML testing. It represents a learning journey into 
+AI/ML quality assurance, combining 10+ years of test automation experience with formal biostatistics training.
 
 ## Why This Matters
+As a Senior SDET with M.S. Biostatistics, I've spent 10+ years doing traditional test automation but haven't had the opportunity to apply my statistical training 
+professionally. With AI/ML becoming critical in healthcare, I'm exploring how my two backgrounds can converge. This project demonstrates how biostatistics principles 
+could enhance ML testing in regulated healthcare environments.
 
 Traditional functional testing isn't sufficient for ML systems. Healthcare AI requires:
 
@@ -15,7 +36,7 @@ Traditional functional testing isn't sufficient for ML systems. Healthcare AI re
 
 This framework demonstrates how biostatistics principles and software testing combine to validate AI systems that impact patient care and clinical decision-making.
 
-## Key Skills Demonstrated
+## Concepts Explored & Skills Being Developed
 
 ### Statistical Validation
 - Hypothesis testing for model accuracy (chi-square, t-tests)
@@ -80,7 +101,9 @@ healthcare-ml-testing-framework/
     └── FDA_ML_Guidance_Summary.md     # Regulatory context
 ```
 
-## Planned Features
+## Learning Roadmap
+
+This project tracks my journey into AI/ML testing:
 
 ### Phase 1 - Core Validation (In Progress)
 - [x] Project structure and documentation
@@ -147,9 +170,13 @@ Key differences:
 - **Regulatory requirements** demand rigorous statistical documentation
 - **Model drift** requires ongoing monitoring, not just release testing
 
-## Why Biostatistics Background Matters
+  **Current Status:** These represent methodologies I'm exploring and implementing as I transition from traditional test automation into AI/ML testing. The project 
+combines my professional test automation experience with statistical methods from my M.S. Biostatistics coursework.
 
-My M.S. in Biostatistics training directly applies to ML testing:
+## Why I'm Applying My Biostatistics Background to ML Testing
+
+My M.S. in Biostatistics (2008) provided training in methods that are directly applicable to ML testing, though I haven't had the opportunity to apply them 
+professionally in my traditional SDET roles. This project explores how to bridge that gap:
 
 - **Clinical trials methodology** → A/B testing for model comparison
 - **Survival analysis** → Time-to-event outcome validation
@@ -184,18 +211,20 @@ This is a demonstration project showcasing the intersection of:
 
 **Ali Jinnah** | Senior QA Automation Engineer | M.S. Biostatistics
 
-Specializing in test automation and statistical validation for healthcare systems. Combining 10+ years of building enterprise test frameworks with biostatistics expertise to address the unique challenges of validating AI/ML systems in regulated healthcare environments.
-
 **Professional Background:**
-- 10 years Senior SDET experience (including healthcare insurance systems)
-- Deep expertise in MMIS (Medicaid), claims processing, provider enrollment
-- Framework architecture: Selenium, C#, Java, Python, CI integration
-- Statistical analysis and experimental design for quality assurance
-- AWS AI Practitioner certification in progress
+- 10+ years Senior SDET experience in B2B and healthcare insurance applications
+- Expert in Selenium WebDriver (C#, Java, Python), framework architecture, CI/CD
+- M.S. Biostatistics (2008) - hypothesis testing, experimental design, statistical computing
+- Deep domain knowledge: MMIS (Medicaid), claims processing, healthcare compliance
+
+**Current Focus:**
+Expanding from traditional test automation into AI/ML testing by applying my biostatistics background to model validation, bias detection, and statistical quality assurance. This project represents that transition and demonstrates how I would approach ML testing in regulated healthcare environments.
+
+**Seeking opportunities** where I can combine test automation expertise with statistical validation knowledge to ensure quality in AI/ML systems.
 
 **Connect:**
 - LinkedIn: https://www.linkedin.com/in/ali-jinnah-5269642/
-- - Email: alijinnah@hotmail.com
+- Email: alijinnah@hotmail.com
 
 ## Contributing
 
