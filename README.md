@@ -223,8 +223,7 @@ Expanding from traditional test automation into AI/ML testing by applying my bio
 **Seeking opportunities** where I can combine test automation expertise with statistical validation knowledge to ensure quality in AI/ML systems.
 
 **Connect:**
-- LinkedIn: https://www.linkedin.com/in/ali-jinnah-5269642/
-- Email: alijinnah@hotmail.com
+LinkedIn
 
 ## Contributing
 
